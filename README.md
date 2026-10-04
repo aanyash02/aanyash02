@@ -6,24 +6,17 @@ A passionate developer focusing on Java, Data Structures & Algorithms, Software 
 
 ### 📊 GitHub Activity & Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aanyash02&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanyash02&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="49%" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aanyash02&show_icons=true&theme=radial&hide_border=true)
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aanyash02&theme=radial&hide_border=true" alt="GitHub Streak" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aanyash02&layout=compact&theme=radial&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aanyash02&theme=radial&hide_border=true)
 
 ---
 
 ### 🧩 Problem Solving & DSA
 
-<p align="left">
-  <a href="https://leetcode.com/u/AanyaSHARMA02/">
-    <img src="https://leetcode-stats-six.vercel.app/?username=AanyaSHARMA02&theme=dark" alt="LeetCode Stats" />
-  </a>
-</p>
+[![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=AanyaSHARMA02&theme=dark)](https://leetcode.com/u/AanyaSHARMA02/)
 
 ---
 
@@ -36,5 +29,7 @@ A passionate developer focusing on Java, Data Structures & Algorithms, Software 
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aanya-sharma-82b394326)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AanyaSHARMA02/)
+
+
